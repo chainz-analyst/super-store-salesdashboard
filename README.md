@@ -91,5 +91,3 @@ Home Office profitability
 skills:
         "Sales Analysis, Regional Performance Tracking, Trend Analysis, Geographic Visualization, KPI Dashboard, Excel Analytics",
 
-🛠️ Technology Stack
-ComponentTechnologyPurposeVisualization[Tableau/Power BI/Plotly]Interactive dashboard creation and renderingData Processing[Python/Pandas/R]Data cleaning, transformation, and aggregationBackend[Specify if applicable]Data pipeline and API servicesDatabase[SQL/PostgreSQL/MySQL]Transactional data storageDeployment[Tableau Server/Power BI Service/Heroku]Dashboard hosting and sharing
