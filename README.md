@@ -91,3 +91,8 @@ Home Office profitability
 skills:
         "Sales Analysis, Regional Performance Tracking, Trend Analysis, Geographic Visualization, KPI Dashboard, Excel Analytics",
 
+LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
+Twitter: https://x.com/Chainzzee
+
+upwork: https://www.upwork.com/freelancers/~01c100bccc1a9bf5c9
